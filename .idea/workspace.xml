@@ -2,226 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="155c5e4a-33ff-4869-828d-df7ba12af1a0" name="Default" comment="DONE!!!!!!!!!1111!">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_29.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_29.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_6_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/photo.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/good_type.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/PhotoApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/BranchesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/ClientsController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/GoodTypeController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/HurrySuppliesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/KiosksController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/OfficeOrdersController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/PhotoGoodsController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/ServiceSuppliesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/ServicesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/SuppliesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/TypeOfSuppliesController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/Branches.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/Clients.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/GoodType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/HurrySupplies.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/Kiosks.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/OfficeOrders.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/PhotoGoods.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/ServiceSupplies.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/Services.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/Supplies.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/model/TypeOfSupplies.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/BranchesRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/ClientsRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/GoodTypeRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/HurrySuppliesRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/KiosksRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/OfficeOrdersRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/PhotoGoodsRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/ServiceSuppliesRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/ServicesRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/SuppliesRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/repository/TypeOfSuppliesRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/branches/BranchesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/branches/IBranchesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/clients/ClientsService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/clients/IClientsService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/goodtype/GoodTypeService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/goodtype/IGoodTypeService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/hurrysupplies/HurrySuppliesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/hurrysupplies/IHurrySuppliesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/kiosks/IKiosksService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/kiosks/KiosksService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/officeorders/IOfficeOrdersService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/officeorders/OfficeOrdersService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/photogoods/IPhotoGoodsService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/photogoods/PhotoGoodsService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/services/IServicesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/services/ServicesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/servicesupplies/IServiceSuppliesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/servicesupplies/ServiceSuppliesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/supplies/ISuppliesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/supplies/SuppliesService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/typeofsupplies/ITypeOfSuppliesServices.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/voblaweb/photo/service/typeofsupplies/TypeOfSuppliesServices.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/branches.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/clients.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/css/buttons.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/css/datagrid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/good_type.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/branches.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/clients.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/goodType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/hurrySupplies.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/kiosks.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/officeOrders.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/photoGoods.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/serviceSupplies.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/services.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/supplies.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/typeOfSupplies.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/js/Новий текстовий документ.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/kiosks.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/office_orders.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/branches_by_workplaces.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_branch_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_discount.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_type.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_branch_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_client_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_date.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_done.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_total_amount.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_type_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/kiosks_by_branch_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/kiosks_by_workplaces.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/office_orders_by_photo_good_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_client_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_date.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_done.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_kiosk_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_total_amount.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_type_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/services.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/src/head.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/src/menu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/supplies.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/tittle.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/voblaweb/photo/PhotoApplicationTests.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -282,8 +63,8 @@
       <file leaf-file-name="good_type.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/good_type.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -815,7 +596,7 @@
       <workItem from="1528357139940" duration="892000" />
       <workItem from="1528358071516" duration="1140000" />
       <workItem from="1528359730378" duration="5033000" />
-      <workItem from="1528371758115" duration="301000" />
+      <workItem from="1528371758115" duration="763000" />
     </task>
     <task id="LOCAL-00001" summary="created all crud methods for all tables using CrudRepository">
       <created>1525701307018</created>
@@ -891,7 +672,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265536000" />
+    <option name="totallyTimeSpent" value="265998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -917,7 +698,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -926,7 +707,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.49598163" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.325" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.325" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27452025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -3158,8 +2939,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/good_type.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
