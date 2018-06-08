@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="155c5e4a-33ff-4869-828d-df7ba12af1a0" name="Default" comment="">
+    <list default="true" id="155c5e4a-33ff-4869-828d-df7ba12af1a0" name="Default" comment="DONE!!!!!!!!!1111!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/tittle.html" afterPath="$PROJECT_DIR$/src/main/resources/static/tittle.html" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/tittle.html" afterPath="$PROJECT_DIR$/target/classes/static/tittle.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,100 +33,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <file leaf-file-name="tittle.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/tittle.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="91" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="branches_by_workplaces.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="good_type.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/good_type.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2465">
-              <caret line="145" column="1" lean-forward="false" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+            <state relative-caret-position="1768">
+              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1713#1719#0" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1892#1898#0" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buttons.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/buttons.css">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+            <state relative-caret-position="510">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datagrid.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/datagrid.css">
+      <file leaf-file-name="Maven__antlr_antlr_2_7_7.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maven__ch_qos_logback_logback_classic_1_2_3.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maven__ch_qos_logback_logback_core_1_2_3.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maven__com_fasterxml_classmate_1_3_4.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".name" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/.name">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maven-wrapper.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -194,7 +190,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="new" />
       </map>
     </option>
   </component>
@@ -206,7 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" />
@@ -256,6 +251,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/static/css/buttons.css" />
         <option value="$PROJECT_DIR$/src/main/resources/static/css/index.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/tittle.html" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -330,89 +326,81 @@
         <subPane>
           <expand>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photo" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photo" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photo" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photo" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="query" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="photo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="photo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kokosphoto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -478,7 +466,7 @@
     </option>
     <option name="contentProportion" value="0.13817944" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.PhotoApplication">
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -492,6 +480,31 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="PhotoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="voblaweb.photo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="photo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="voblaweb.photo" />
+      <option name="MAIN_CLASS_NAME" value="voblaweb.photo.PhotoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -558,6 +571,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.PhotoApplication" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PhotoApplicationTests.contextLoads" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PhotoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -604,7 +626,7 @@
       <workItem from="1528357139940" duration="892000" />
       <workItem from="1528358071516" duration="1140000" />
       <workItem from="1528359730378" duration="5033000" />
-      <workItem from="1528371758115" duration="898000" />
+      <workItem from="1528371758115" duration="6080000" />
     </task>
     <task id="LOCAL-00001" summary="created all crud methods for all tables using CrudRepository">
       <created>1525701307018</created>
@@ -683,11 +705,32 @@
       <option name="project" value="LOCAL" />
       <updated>1528372534231</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="DONE!!!!!!!!!1111!">
+      <created>1528372672393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528372672393</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PhotoApplicationTests_contextLoads - 2018.06.07 at 18h 11m 28s.xml">
+      <configuration name="PhotoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhotoApplicationTests_contextLoads - 2018.06.07 at 18h 11m 43s.xml">
+      <configuration name="PhotoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhotoApplicationTests_contextLoads - 2018.06.07 at 18h 12m 38s.xml">
+      <configuration name="PhotoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PhotoApplicationTests_contextLoads - 2018.06.07 at 18h 12m 55s.xml">
+      <configuration name="PhotoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266133000" />
+    <option name="totallyTimeSpent" value="271315000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -700,6 +743,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.81962866" sideWeight="0.50401837" order="7" side_tool="true" content_ui="tabs" />
@@ -711,20 +755,21 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34565216" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.49598163" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34565216" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.49598163" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.325" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27452025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.325" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27452025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -732,7 +777,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -769,1586 +813,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/voblaweb.photo.controller">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>voblaweb.photo.controller</OriginalElement>
-          <nodes>
-            <node x="188.0" y="296.0">voblaweb.photo.controller.ClientsController</node>
-            <node x="194.0" y="222.0">voblaweb.photo.controller.SuppliesController</node>
-            <node x="0.0" y="0.0">voblaweb.photo.controller.TypeOfSuppliesController</node>
-            <node x="220.0" y="74.0">voblaweb.photo.controller.OfficeOrdersController</node>
-            <node x="0.0" y="370.0">voblaweb.photo.controller.KiosksController</node>
-            <node x="229.0" y="0.0">voblaweb.photo.controller.ServiceSuppliesController</node>
-            <node x="0.0" y="296.0">voblaweb.photo.controller.ServicesController</node>
-            <node x="0.0" y="74.0">voblaweb.photo.controller.HurrySuppliesController</node>
-            <node x="212.0" y="148.0">voblaweb.photo.controller.GoodTypeController</node>
-            <node x="0.0" y="148.0">voblaweb.photo.controller.PhotoGoodsController</node>
-            <node x="0.0" y="222.0">voblaweb.photo.controller.BranchesController</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-127.0" y="140.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/voblaweb.photo.model">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>voblaweb.photo.model</OriginalElement>
-          <nodes>
-            <node x="-168.0" y="82.0">voblaweb.photo.model.HurrySupplies</node>
-            <node x="0.0" y="222.0">voblaweb.photo.model.Branches</node>
-            <node x="278.0" y="222.0">voblaweb.photo.model.Services</node>
-            <node x="176.0" y="0.0">voblaweb.photo.model.ServiceSupplies</node>
-            <node x="129.0" y="296.0">voblaweb.photo.model.Kiosks</node>
-            <node x="0.0" y="0.0">voblaweb.photo.model.TypeOfSupplies</node>
-            <node x="167.0" y="74.0">voblaweb.photo.model.OfficeOrders</node>
-            <node x="159.0" y="148.0">voblaweb.photo.model.GoodType</node>
-            <node x="0.0" y="296.0">voblaweb.photo.model.Clients</node>
-            <node x="0.0" y="148.0">voblaweb.photo.model.PhotoGoods</node>
-            <node x="141.0" y="222.0">voblaweb.photo.model.Supplies</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-149.0" y="103.0" />
-          <SelectedNodes>
-            <node>voblaweb.photo.model.HurrySupplies</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/University/DB 2nd semester/DB labs/lab6 DB/photo/src">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
-          <nodes>
-            <node x="775.0" y="766.0">$PROJECT_DIR$/src/main/resources/static/js/angular.min.js</node>
-            <node x="783.0" y="906.0">$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js</node>
-            <node x="718.0" y="1172.0">$PROJECT_DIR$/src/main/resources/static/branches.html</node>
-            <node x="463.0" y="1408.0">$PROJECT_DIR$/src/main/resources/static/js/branches.js</node>
-            <node x="879.0" y="1275.0">$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html</node>
-            <node x="858.0" y="1627.0">$PROJECT_DIR$/src/main/resources/static/query/js/branches_by_workplaces.js</node>
-            <node x="575.0" y="921.0">$PROJECT_DIR$/src/main/resources/static/clients.html</node>
-            <node x="220.0" y="785.0">$PROJECT_DIR$/src/main/resources/static/js/clients.js</node>
-            <node x="696.0" y="641.0">$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html</node>
-            <node x="237.0" y="626.0">$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_branch_id.js</node>
-            <node x="1229.0" y="875.0">$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html</node>
-            <node x="1441.0" y="619.0">$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_discount.js</node>
-            <node x="1145.0" y="1263.0">$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html</node>
-            <node x="1251.0" y="1593.0">$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_type.js</node>
-            <node x="871.0" y="181.0">$PROJECT_DIR$/src/main/resources/static/js/goodType.js</node>
-            <node x="845.0" y="571.0">$PROJECT_DIR$/src/main/resources/static/good_type.html</node>
-            <node x="1711.0" y="957.0">$PROJECT_DIR$/src/main/resources/static/src/head.png</node>
-            <node x="1525.0" y="441.0">$PROJECT_DIR$/src/main/resources/static/js/hurrySupplies.js</node>
-            <node x="1214.0" y="787.0">$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html</node>
-            <node x="1098.0" y="957.0">$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html</node>
-            <node x="1460.0" y="1222.0">$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_branch_id.js</node>
-            <node x="439.0" y="1197.0">$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html</node>
-            <node x="154.0" y="1425.0">$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_client_id.js</node>
-            <node x="1196.0" y="1123.0">$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html</node>
-            <node x="1443.0" y="1424.0">$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_date.js</node>
-            <node x="458.0" y="1007.0">$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html</node>
-            <node x="0.0" y="900.0">$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_done.js</node>
-            <node x="560.0" y="1268.0">$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html</node>
-            <node x="386.0" y="1592.0">$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_total_amount.js</node>
-            <node x="1230.0" y="1040.0">$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html</node>
-            <node x="1666.0" y="1152.0">$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_type_id.js</node>
-            <node x="887.0" y="976.0">$PROJECT_DIR$/src/main/resources/static/css/index.css</node>
-            <node x="1426.0" y="956.0">$PROJECT_DIR$/src/main/resources/static/index.html</node>
-            <node x="969.0" y="718.0">$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js</node>
-            <node x="1125.0" y="1193.0">$PROJECT_DIR$/src/main/resources/static/kiosks.html</node>
-            <node x="1151.0" y="1475.0">$PROJECT_DIR$/src/main/resources/static/js/kiosks.js</node>
-            <node x="981.0" y="1053.0">$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html</node>
-            <node x="1321.0" y="489.0">$PROJECT_DIR$/src/main/resources/static/query/js/kiosks_by_branch_id.js</node>
-            <node x="696.0" y="351.0">$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html</node>
-            <node x="679.0" y="84.0">$PROJECT_DIR$/src/main/resources/static/query/js/kiosks_by_workplaces.js</node>
-            <node x="1604.0" y="803.0">$PROJECT_DIR$/src/main/resources/static/js/officeOrders.js</node>
-            <node x="1259.0" y="706.0">$PROJECT_DIR$/src/main/resources/static/office_orders.html</node>
-            <node x="986.0" y="361.0">$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html</node>
-            <node x="965.0" y="0.0">$PROJECT_DIR$/src/main/resources/static/query/js/office_orders_by_photo_good_id.js</node>
-            <node x="182.0" y="974.0">$PROJECT_DIR$/src/main/resources/static/js/photoGoods.js</node>
-            <node x="503.0" y="781.0">$PROJECT_DIR$/src/main/resources/static/photo_goods.html</node>
-            <node x="263.0" y="393.0">$PROJECT_DIR$/src/main/resources/static/js/serviceSupplies.js</node>
-            <node x="552.0" y="542.0">$PROJECT_DIR$/src/main/resources/static/service_supplies.html</node>
-            <node x="598.0" y="711.0">$PROJECT_DIR$/src/main/resources/static/services.html</node>
-            <node x="449.0" y="402.0">$PROJECT_DIR$/src/main/resources/static/js/services.js</node>
-            <node x="1009.0" y="808.0">$PROJECT_DIR$/src/main/resources/static/css/sidebar.css</node>
-            <node x="956.0" y="431.0">$PROJECT_DIR$/src/main/resources/static/supplies.html</node>
-            <node x="1280.0" y="241.0">$PROJECT_DIR$/src/main/resources/static/js/supplies.js</node>
-            <node x="1052.0" y="561.0">$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html</node>
-            <node x="1164.0" y="135.0">$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_client_id.js</node>
-            <node x="900.0" y="1183.0">$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html</node>
-            <node x="1257.0" y="1405.0">$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_date.js</node>
-            <node x="394.0" y="851.0">$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html</node>
-            <node x="71.0" y="545.0">$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_done.js</node>
-            <node x="746.0" y="1345.0">$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html</node>
-            <node x="653.0" y="1628.0">$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_kiosk_id.js</node>
-            <node x="-521.2750000000001" y="362.68499999999995">$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html</node>
-            <node x="137.0" y="1177.0">$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_total_amount.js</node>
-            <node x="709.0" y="421.0">$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html</node>
-            <node x="473.0" y="150.0">$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_type_id.js</node>
-            <node x="875.0" y="501.0">$PROJECT_DIR$/src/main/resources/static/test.html</node>
-            <node x="990.0" y="1358.0">$PROJECT_DIR$/src/main/resources/static/tittle.html</node>
-            <node x="1641.0" y="627.0">$PROJECT_DIR$/src/main/resources/static/js/typeOfSupplies.js</node>
-            <node x="1053.0" y="631.0">$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html</node>
-            <node x="1012.0" y="878.0">https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js</node>
-            <node x="845.0" y="836.0">https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css</node>
-            <node x="768.0" y="1046.0">https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js</node>
-            <node x="1088.0" y="1594.0">js/main.js</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/supplies.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="$PROJECT_DIR$/src/main/resources/static/js/branches.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="$PROJECT_DIR$/src/main/resources/static/js/kiosks.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/kiosks_by_branch_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_kiosk_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/kiosks_by_workplaces.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_client_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/tittle.html" target="js/main.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_date.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/serviceSupplies.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/test.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/test.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/typeOfSupplies.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_client_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="$PROJECT_DIR$/src/main/resources/static/js/clients.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_type_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="$PROJECT_DIR$/src/main/resources/static/js/officeOrders.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/index.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/hurrySupplies.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_type_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="$PROJECT_DIR$/src/main/resources/static/js/photoGoods.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_type.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_discount.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/index.html" target="$PROJECT_DIR$/src/main/resources/static/src/head.png">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="$PROJECT_DIR$/src/main/resources/static/js/services.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_branch_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_done.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/tittle.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="$PROJECT_DIR$/src/main/resources/static/js/goodType.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/clients_by_branch_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/good_type.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/clients.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_done.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_done.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/photo_goods.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_type.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/branches_by_workplaces.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/test.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_type_id.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_date.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/test.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_kiosk_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/office_orders_by_photo_good_id.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/kiosks.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/service_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/supplies.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/type_of_supplies.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/kiosks_by_workplaces.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/hurry_supplies.html" target="$PROJECT_DIR$/src/main/resources/static/css/index.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/office_orders_by_photo_good_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/tittle.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/hurry_supplies_by_total_amount.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_branch_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/hurry_supplies_by_client_id.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/css/sidebar.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html" target="$PROJECT_DIR$/src/main/resources/static/query/js/supplies_by_total_amount.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/clients_by_discount.html" target="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_date.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/services.html" target="$PROJECT_DIR$/src/main/resources/static/js/angular.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/office_orders.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/query/supplies_by_client_id.html" target="$PROJECT_DIR$/src/main/resources/static/js/jquery-3.3.1.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/main/resources/static/branches.html" target="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.35778175313059035" x="-1.0" y="741.0" />
-          <SelectedNodes>
-            <node>$PROJECT_DIR$/src/main/resources/static/query/supplies_by_total_amount.html</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/voblaweb.photo.service">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>voblaweb.photo.service</OriginalElement>
-          <nodes>
-            <node x="0.0" y="370.0">voblaweb.photo.service.kiosks</node>
-            <node x="0.0" y="0.0">voblaweb.photo.service.servicesupplies</node>
-            <node x="172.0" y="222.0">voblaweb.photo.service.supplies</node>
-            <node x="0.0" y="222.0">voblaweb.photo.service.branches</node>
-            <node x="0.0" y="296.0">voblaweb.photo.service.services</node>
-            <node x="203.0" y="0.0">voblaweb.photo.service.typeofsupplies</node>
-            <node x="0.0" y="74.0">voblaweb.photo.service.hurrysupplies</node>
-            <node x="195.0" y="74.0">voblaweb.photo.service.photogoods</node>
-            <node x="165.0" y="296.0">voblaweb.photo.service.clients</node>
-            <node x="0.0" y="148.0">voblaweb.photo.service.officeorders</node>
-            <node x="187.0" y="148.0">voblaweb.photo.service.goodtype</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-153.0" y="140.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/University/DB 2nd semester/DB labs/lab6 DB/photo/src/main/resources/static/js">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/main/resources/static/js</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="220.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/static.js">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>static.js</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="320.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/voblaweb.photo.model.Branches">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>voblaweb.photo.model.Branches</OriginalElement>
-          <nodes>
-            <node x="565.5" y="0.0">javax.persistence.Entity</node>
-            <node x="222.0" y="329.0">voblaweb.photo.model.HurrySupplies</node>
-            <node x="112.0" y="329.0">voblaweb.photo.model.Services</node>
-            <node x="933.0" y="329.0">voblaweb.photo.model.Kiosks</node>
-            <node x="649.0" y="329.0">voblaweb.photo.model.ServiceSupplies</node>
-            <node x="1254.0" y="329.0">voblaweb.photo.model.GoodType</node>
-            <node x="1034.0" y="329.0">voblaweb.photo.model.Clients</node>
-            <node x="1138.0" y="329.0">voblaweb.photo.model.Branches</node>
-            <node x="663.5" y="0.0">javax.persistence.Table</node>
-            <node x="760.5" y="0.0">javax.persistence.EntityListeners</node>
-            <node x="364.0" y="329.0">voblaweb.photo.model.TypeOfSupplies</node>
-            <node x="798.0" y="329.0">voblaweb.photo.model.OfficeOrders</node>
-            <node x="515.0" y="329.0">voblaweb.photo.model.PhotoGoods</node>
-            <node x="0.0" y="329.0">voblaweb.photo.model.Supplies</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="voblaweb.photo.model.Kiosks" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="973.5" y="149.0" />
-              <point x="716.0" y="149.0" />
-              <point x="14.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Services" target="javax.persistence.Entity">
-              <point x="-30.0" y="-14.5" />
-              <point x="127.0" y="169.0" />
-              <point x="576.1363636363636" y="169.0" />
-              <point x="-28.363636363636374" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.ServiceSupplies" target="javax.persistence.Entity">
-              <point x="-43.0" y="-14.5" />
-              <point x="670.5" y="199.0" />
-              <point x="604.5" y="199.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.PhotoGoods" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="572.0" y="249.0" />
-              <point x="695.0" y="249.0" />
-              <point x="-7.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Supplies" target="javax.persistence.Entity">
-              <point x="-30.66666666666663" y="-14.5" />
-              <point x="15.333333333333371" y="159.0" />
-              <point x="569.0454545454545" y="159.0" />
-              <point x="-35.454545454545496" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.TypeOfSupplies" target="javax.persistence.EntityListeners">
-              <point x="43.666666666666686" y="-14.5" />
-              <point x="473.1666666666667" y="289.0" />
-              <point x="799.9545454545455" y="289.0" />
-              <point x="-22.545454545454504" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Clients" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="1076.0" y="119.0" />
-              <point x="723.0" y="119.0" />
-              <point x="21.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Services" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="157.0" y="219.0" />
-              <point x="674.0" y="219.0" />
-              <point x="-28.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.ServiceSupplies" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="713.5" y="249.0" />
-              <point x="702.0" y="249.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.OfficeOrders" target="javax.persistence.EntityListeners">
-              <point x="38.33333333333326" y="-14.5" />
-              <point x="893.8333333333333" y="169.0" />
-              <point x="833.7727272727273" y="169.0" />
-              <point x="11.272727272727252" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.PhotoGoods" target="javax.persistence.Entity">
-              <point x="-38.0" y="-14.5" />
-              <point x="534.0" y="199.0" />
-              <point x="597.4090909090909" y="199.0" />
-              <point x="-7.090909090909122" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Branches" target="javax.persistence.Entity">
-              <point x="-32.0" y="-14.5" />
-              <point x="1154.0" y="99.0" />
-              <point x="632.8636363636364" y="99.0" />
-              <point x="28.363636363636374" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.ServiceSupplies" target="javax.persistence.EntityListeners">
-              <point x="43.0" y="-14.5" />
-              <point x="756.5" y="309.0" />
-              <point x="822.5" y="309.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.OfficeOrders" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="855.5" y="179.0" />
-              <point x="709.0" y="179.0" />
-              <point x="7.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Kiosks" target="javax.persistence.Entity">
-              <point x="-27.0" y="-14.5" />
-              <point x="946.5" y="159.0" />
-              <point x="618.6818181818182" y="159.0" />
-              <point x="14.181818181818244" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.HurrySupplies" target="javax.persistence.Table">
-              <point x="7.105427357601002E-15" y="-14.5" />
-              <point x="283.0" y="229.0" />
-              <point x="681.0" y="229.0" />
-              <point x="-21.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.HurrySupplies" target="javax.persistence.EntityListeners">
-              <point x="40.66666666666666" y="-14.5" />
-              <point x="323.66666666666663" y="279.0" />
-              <point x="788.6818181818181" y="279.0" />
-              <point x="-33.81818181818187" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.GoodType" target="javax.persistence.Entity">
-              <point x="-34.33333333333337" y="-14.5" />
-              <point x="1271.1666666666665" y="69.0" />
-              <point x="639.9545454545455" y="69.0" />
-              <point x="35.454545454545496" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.OfficeOrders" target="javax.persistence.Entity">
-              <point x="-38.33333333333326" y="-14.5" />
-              <point x="817.1666666666667" y="189.0" />
-              <point x="611.5909090909091" y="189.0" />
-              <point x="7.090909090909122" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Branches" target="javax.persistence.EntityListeners">
-              <point x="32.0" y="-14.5" />
-              <point x="1218.0" y="79.0" />
-              <point x="867.5909090909091" y="79.0" />
-              <point x="45.09090909090912" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Kiosks" target="javax.persistence.EntityListeners">
-              <point x="27.0" y="-14.5" />
-              <point x="1000.5" y="139.0" />
-              <point x="845.0454545454545" y="139.0" />
-              <point x="22.545454545454504" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Clients" target="javax.persistence.EntityListeners">
-              <point x="28.0" y="-14.5" />
-              <point x="1104.0" y="109.0" />
-              <point x="856.3181818181819" y="109.0" />
-              <point x="33.81818181818187" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.PhotoGoods" target="javax.persistence.EntityListeners">
-              <point x="38.0" y="-14.5" />
-              <point x="610.0" y="299.0" />
-              <point x="811.2272727272727" y="299.0" />
-              <point x="-11.272727272727252" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Supplies" target="javax.persistence.EntityListeners">
-              <point x="30.66666666666663" y="-14.5" />
-              <point x="76.66666666666663" y="259.0" />
-              <point x="766.1363636363636" y="259.0" />
-              <point x="-56.363636363636374" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.TypeOfSupplies" target="javax.persistence.Entity">
-              <point x="-43.66666666666663" y="-14.5" />
-              <point x="385.83333333333337" y="189.0" />
-              <point x="590.3181818181819" y="189.0" />
-              <point x="-14.18181818181813" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.TypeOfSupplies" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="429.5" y="239.0" />
-              <point x="688.0" y="239.0" />
-              <point x="-14.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Services" target="javax.persistence.EntityListeners">
-              <point x="30.0" y="-14.5" />
-              <point x="187.0" y="269.0" />
-              <point x="777.4090909090909" y="269.0" />
-              <point x="-45.09090909090912" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Clients" target="javax.persistence.Entity">
-              <point x="-28.0" y="-14.5" />
-              <point x="1048.0" y="129.0" />
-              <point x="625.7727272727273" y="129.0" />
-              <point x="21.272727272727252" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Supplies" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="46.0" y="209.0" />
-              <point x="667.0" y="209.0" />
-              <point x="-35.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.GoodType" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="1305.5" y="59.0" />
-              <point x="737.0" y="59.0" />
-              <point x="35.0" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.GoodType" target="javax.persistence.EntityListeners">
-              <point x="34.333333333333314" y="-14.5" />
-              <point x="1339.8333333333333" y="49.0" />
-              <point x="878.8636363636364" y="49.0" />
-              <point x="56.363636363636374" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.HurrySupplies" target="javax.persistence.Entity">
-              <point x="-40.66666666666666" y="-14.5" />
-              <point x="242.33333333333337" y="179.0" />
-              <point x="583.2272727272727" y="179.0" />
-              <point x="-21.272727272727252" y="14.5" />
-            </edge>
-            <edge source="voblaweb.photo.model.Branches" target="javax.persistence.Table">
-              <point x="0.0" y="-14.5" />
-              <point x="1186.0" y="89.0" />
-              <point x="730.0" y="89.0" />
-              <point x="28.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.8322440087145969" x="295.0" y="7.0" />
-          <SelectedNodes>
-            <node>javax.persistence.Entity</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voblaweb/photo/service/branches/BranchesService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voblaweb/photo/controller/SuppliesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/voblaweb.photo.controller.BranchesController">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -2869,14 +1333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voblaweb/photo/PhotoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/query/branches_by_workplaces.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2906,14 +1362,54 @@
         <state relative-caret-position="136">
           <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voblaweb/photo/PhotoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/good_type.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/voblaweb/photo/PhotoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/buttons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
+        <state relative-caret-position="282">
           <caret line="90" column="30" lean-forward="false" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
           <folding />
         </state>
@@ -2927,34 +1423,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/index.css">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/tittle.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="1768">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="e#1713#1719#0" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1892#1898#0" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="91" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/good_type.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="510">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -3011,7 +1552,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>kursovaCrudRep</last-edited>
+          <last-edited>photo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
